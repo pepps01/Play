@@ -20,5 +20,5 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 
 
 Route::get('/restructure', function(){
-    return "Welcome to Laravel";
+    return "Welcome to Sunny Peps";
 });
